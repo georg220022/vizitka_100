@@ -1,0 +1,9 @@
+Django==3.2
+django-crispy-forms==1.14.0
+python-telegram-bot==13.13
+python-dotenv==0.20.0
+#psycopg2==2.8.6 для винды
+psycopg2-binary #для линьки
+django-redis==5.2.0
+django-session-timeout==0.1.0
+gunicorn==20.1.0
